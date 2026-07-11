@@ -1,0 +1,25 @@
+# Shiva Healthcare Dashboard Work
+
+## Developer
+Shiva
+
+## Feature
+Healthcare Dashboard
+
+## Purpose
+This feature is created to practice Git branch, commit, push, pull request, review, and merge workflow.
+
+## Work Completed
+- Created Shiva feature branch
+- Added dashboard documentation
+- Practiced Git status, add, commit, and push
+- Will raise pull request for review
+
+## Commands Practiced
+- git checkout Master
+- git pull origin Master
+- git checkout -b feature-shiva-dashboard
+- git status
+- git add
+- git commit
+- git push
